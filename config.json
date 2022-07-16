@@ -1,9 +1,5 @@
 {
-   "auto-night-skip": "false",
    "ip": "Builder_SMP.aternos.me",
-   "login-cmd": "/login (12345)",
-   "login-enabled": "true",
-   "name": "afkbot1",
-   "port": 18255,
-   "register-cmd": "/register 12345"
+   "name": "Bot.afk",
+   "port": "18255"
 }
